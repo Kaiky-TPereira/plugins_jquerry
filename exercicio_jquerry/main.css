@@ -1,0 +1,38 @@
+
+h1 {
+    margin-left: 43%;
+}
+
+.container {
+    background-color: rgb(148, 148, 148);
+    margin-bottom: 16px;
+    margin-left: 40%;
+    width: max-content; 
+}
+
+.form-campo label {
+    font-weight: bold;
+    display: block;
+    width: 100%;
+    max-width: 250px;
+    width: 320px;
+
+}
+
+.form-campo input {
+
+    width: 100%;
+    max-width: 242px;
+
+}
+
+button {
+    display: block;
+    background-color: rgb(197, 203, 199);
+}
+
+button {
+    margin-top: 10px;
+        max-width: 120px;
+        width: 100%;
+    }
